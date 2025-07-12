@@ -41,11 +41,25 @@ I’m a **Software Engineering (BSSE)** student at **FAST University**, driven b
 </details>
 
 <details>
-<summary>🎨 **Learnings & Hobbies**</summary>
+<summary>🛠️ **Technologies & Skills**</summary>
 
-* 🎮 Game development experiments with **SDL/SFML** to understand real‑time rendering and event loops.
-* 📚 Deep dives into **system design**, microservices, and distributed computing patterns.
-* 🗣️ Active participant in **debating clubs** to sharpen communication and persuasive skills.
+### Languages & Frameworks
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B)
+![Assembly](https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![SFML](https://img.shields.io/badge/SFML-0099FF?style=for-the-badge)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge\&logo=trello)
+![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge)
 
 </details>
 
@@ -65,4 +79,5 @@ I’m a **Software Engineering (BSSE)** student at **FAST University**, driven b
 
 * 📧 **Email:** [moizdil3546@gmail.com](mailto:moizdil3546@gmail.com)
 * 🔗 **LinkedIn:** [Muhammad Moiz Dil](https://www.linkedin.com/in/muhammad-moiz-dil-59780131b/)
+
 > 🚀 *Keep learning, keep building, and never be afraid to tackle the next big challenge!*
