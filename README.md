@@ -63,13 +63,6 @@ I’m a **Software Engineering (BSSE)** student at **FAST University**, driven b
 
 </details>
 
-<details>
-<summary>🛠️ **Technologies & Skills**</summary>
-
-* **Languages & Frameworks:** C++, Assembly, JavaScript, HTML, CSS, React, SFML
-* **Tools & Platforms:** Git, GitHub, VS Code, Trello, WinForms
-
-</details>
 
 ---
 
