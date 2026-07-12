@@ -119,9 +119,6 @@
 ---
 
 
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,50:2C5364,100:0F2027&height=100&section=footer"/>
