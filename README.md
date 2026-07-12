@@ -93,30 +93,21 @@
 
 ## 📊 GitHub Analytics
 
-📊 GitHub Analytics
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Moiz-Dil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6A00F4&icon_color=6A00F4" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Muhammad-Moiz-Dil&theme=tokyonight&hide_border=true&background=0D1117&ring=6A00F4&fire=6A00F4" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Moiz-Dil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Muhammad-Moiz-Dil&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Moiz-Dil&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Moiz-Dil&theme=tokyo-night&hide_border=true" width="49%"/>
 </div>
 <br>
 <div align="center">
-
-<br>
-
-<div align="center">
-
-### 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Moiz-Dil/Muhammad-Moiz-Dil/output/github-contribution-grid-snake-dark.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/Muhammad-Moiz-Dil/Muhammad-Moiz-Dil/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
-
 ---
 
 
