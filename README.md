@@ -7,7 +7,8 @@
 </a>
 
 <br>
-> "Code is like humor. When you have to explain it, it’s bad. But great software speaks for itself."
+
+> "Code is like humor. When you have to explain it, it's bad. But great software speaks for itself."
 
 <br>
 
@@ -88,28 +89,34 @@
 ![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-
 ---
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Moiz-Dil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Muhammad-Moiz-Dil&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Moiz-Dil&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Muhammad-Moiz-Dil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Muhammad-Moiz-Dil&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Moiz-Dil&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Moiz-Dil&theme=tokyo-night&hide_border=true" width="49%"/>
+
 </div>
+
 <br>
+
 <div align="center">
-🐍 Contribution Snake
+
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Moiz-Dil/Muhammad-Moiz-Dil/output/github-contribution-grid-snake-dark.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/Muhammad-Moiz-Dil/Muhammad-Moiz-Dil/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
----
 
+</div>
+
+---
 
 <div align="center">
 
