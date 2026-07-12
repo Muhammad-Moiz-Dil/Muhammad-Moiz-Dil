@@ -118,11 +118,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Moiz-Dil&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=false" />
-</div>
 
 ---
 
