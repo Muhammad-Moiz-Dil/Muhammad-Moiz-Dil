@@ -95,11 +95,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Muhammad-Moiz-Dil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Muhammad-Moiz-Dil&theme=tokyonight&hide_border=true" width="49%"/>
-
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammad-Moiz-Dil&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Moiz-Dil&theme=tokyo-night&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Moiz-Dil&theme=tokyo-night&hide_border=true" width="98%"/>
 
 </div>
 
